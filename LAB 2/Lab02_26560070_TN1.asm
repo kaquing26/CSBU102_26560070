@@ -1,4 +1,4 @@
- Name: Phùng Gia Vinh       Student ID: 26560070
+# Name: Phùng Gia Vinh       Student ID: 26560070
 # Purpose: LAB 02, Experiment 1 - read and write words in memory (Listing 1 + Listing 2)
 #
 # Register plan: $t0 = base address / loaded values, $t1,$t2,$t3 = temporaries,
